@@ -8,4 +8,5 @@
 ### Bước 1 Vào folder web
 ### Bước 2 Chạy file run.bat để tự động tải các thư viện cần thiết và chạy trên local
 ### Bước 3 Sau khi chạy xong, tiến hành up ảnh xray lên để mô hình dự đoán
+### Bước 4 ( Tuỳ chọn ) Có thể đổi các mô hình xcepion hoặc mobilenetV2 khác bằng cách thay 2 đường dẫn MODEL_XCEPTION_PATH = "xception_fixed_v7.keras" và MODEL_MOBILENET_PATH = "mobilenetv2_fixed_v1.keras" trong file appfixedv7ok.py
 ## III. Mô hình đã được đưa lên web để có thể sử dụng: https://cusau81-webxray.hf.space
