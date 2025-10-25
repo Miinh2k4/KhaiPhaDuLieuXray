@@ -1,7 +1,7 @@
 Báo cáo đồ án cuối kỳ khai phá dữ liệu
 
 I. Phần tiền xử lý, train mô hình sau đó đánh giá và báo cáo gradcam
-Bước 1 Add thêm input bộ dữ liệu từ link https://www.kaggle.com/datasets/ghost5612/chest-x-ray-images-normal-and-pneumonia <img width="350" height="118" alt="image" src="https://github.com/user-attachments/assets/088b16bf-757e-445d-bac9-72123fd795b6" />
+Bước 1 Add thêm input bộ dữ liệu từ link https://www.kaggle.com/datasets/ghost5612/chest-x-ray-images-normal-and-pneumonia
 Bước 2 Coppy toàn bộ dữ liệu của 3 file theo thứ tự src/preprocessing.py, src/train.py, src/evaluation_gradcam.py
 Bước 3 Chạy lần lượt 3 bộ code theo thứ tự
 II. Phần chạy local web dự đoán và so sánh gradcam giữa 2 mô hình xception và mobilenetv2
